@@ -1,0 +1,24 @@
+{
+  "name": "front-end-coursera",
+  "version": "1.0.0",
+  "description": "Repository for Coursera \"Fron-Edn Web UI Frameworks and Tools: Bootstrap 4\" course",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bfarndt/front-end-coursera.git"
+  },
+  "author": "Bruno Arndt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bfarndt/front-end-coursera/issues"
+  },
+  "homepage": "https://github.com/bfarndt/front-end-coursera#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
